@@ -1,0 +1,241 @@
+{
+  "kind": "collectionType",
+  "collectionName": "services",
+  "info": {
+    "singularName": "service",
+    "pluralName": "services",
+    "displayName": "Service",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "desc": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "path": {
+      "type": "string"
+    },
+    "bigDesc": {
+      "type": "text"
+    },
+    "heroText": {
+      "type": "string"
+    },
+    "heading01": {
+      "type": "string"
+    },
+    "bod01": {
+      "type": "text"
+    },
+    "heading02": {
+      "type": "string"
+    },
+    "bod02": {
+      "type": "string"
+    },
+    "image01": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading03": {
+      "type": "string"
+    },
+    "bod03": {
+      "type": "text"
+    },
+    "image02": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading04": {
+      "type": "string"
+    },
+    "bod04": {
+      "type": "text"
+    },
+    "image03": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading05": {
+      "type": "string"
+    },
+    "bod05": {
+      "type": "text"
+    },
+    "image04": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading06": {
+      "type": "string"
+    },
+    "bod06": {
+      "type": "text"
+    },
+    "image05": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading07": {
+      "type": "string"
+    },
+    "bod07": {
+      "type": "text"
+    },
+    "image06": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading08": {
+      "type": "string"
+    },
+    "bod08": {
+      "type": "text"
+    },
+    "image07": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading09": {
+      "type": "string"
+    },
+    "bod09": {
+      "type": "text"
+    },
+    "image08": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading10": {
+      "type": "string"
+    },
+    "bod10": {
+      "type": "text"
+    },
+    "image09": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading11": {
+      "type": "string"
+    },
+    "bod11": {
+      "type": "text"
+    },
+    "image10": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading12": {
+      "type": "string"
+    },
+    "bod12": {
+      "type": "text"
+    },
+    "image11": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "rich01": {
+      "type": "richtext"
+    },
+    "rich02": {
+      "type": "richtext"
+    }
+  }
+}

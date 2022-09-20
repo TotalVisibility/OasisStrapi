@@ -1,0 +1,48 @@
+{
+  "kind": "collectionType",
+  "collectionName": "blog_articles",
+  "info": {
+    "singularName": "blog-article",
+    "pluralName": "blog-articles",
+    "displayName": "BlogArticle",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "body": {
+      "type": "richtext"
+    },
+    "date": {
+      "type": "string"
+    },
+    "topic": {
+      "type": "string"
+    },
+    "hasImage": {
+      "type": "boolean"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "imageCaption": {
+      "type": "string"
+    }
+  }
+}

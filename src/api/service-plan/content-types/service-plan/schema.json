@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "service_plans",
+  "info": {
+    "singularName": "service-plan",
+    "pluralName": "service-plans",
+    "displayName": "servicePlans"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "bullets": {
+      "type": "richtext"
+    }
+  }
+}

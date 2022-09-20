@@ -1,0 +1,110 @@
+{
+  "kind": "collectionType",
+  "collectionName": "electrical_services",
+  "info": {
+    "singularName": "electrical-service",
+    "pluralName": "electrical-services",
+    "displayName": "electricalService",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "thumbnail": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "caption": {
+      "type": "text"
+    },
+    "heading01": {
+      "type": "string"
+    },
+    "bod01": {
+      "type": "text"
+    },
+    "image01": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "heading02": {
+      "type": "string"
+    },
+    "bod02": {
+      "type": "text"
+    },
+    "bod03": {
+      "type": "text"
+    },
+    "heading03": {
+      "type": "string"
+    },
+    "bod04": {
+      "type": "text"
+    },
+    "heading04": {
+      "type": "string"
+    },
+    "rich01": {
+      "type": "richtext"
+    },
+    "rich02": {
+      "type": "richtext"
+    },
+    "heading05": {
+      "type": "string"
+    },
+    "projectPic01": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "projectPic02": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "projectPic03": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}
